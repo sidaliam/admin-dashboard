@@ -1,0 +1,5 @@
+.start-container {
+    position: absolute;
+    transform: translateX(-40%);
+    z-index: 1; /* Assurez-vous que le composant Start est au-dessus du reste du contenu */
+  }
